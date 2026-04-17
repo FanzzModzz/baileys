@@ -1,12 +1,55 @@
 # baileys
 Repository Created By FanzzModzz GitHub Bot
 
-# Fanzz Baileys Bot
+# 🤖 Fanzz Baileys Bot
 
-Bot WhatsApp menggunakan Baileys
+Bot WhatsApp berbasis **Baileys** dengan fitur modular dan mudah dikembangkan.
 
-## Install
+---
+
+## ✨ Features
+
+* Auto reply
+* Command handler
+* Modular system
+* Easy customization
+
+---
+
+## 📦 Installation
+
+```bash
+"@whiskeysockets/baileys": "github:FanzzModzz/baileys"
 npm install
+```
 
-## Run
+---
+
+## 🚀 Run Bot
+
+```bash
+node index.js
+or
 npm start
+```
+
+---
+
+---
+
+## 🛠️ Tech Stack
+
+* Node.js
+* Baileys
+
+---
+
+## 👤 Author
+
+**FanzzModzz**
+
+---
+
+## ⭐ Support
+
+Kalau suka project ini, kasih ⭐ di repo ini

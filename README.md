@@ -9,10 +9,10 @@ Bot WhatsApp berbasis **Baileys** dengan fitur modular dan mudah dikembangkan.
 
 ## ✨ Features
 
-* Auto reply
+* Support all bug whatsapp
+* Sender anti lepas
 * Command handler
 * Modular system
-* Easy customization
 
 ---
 
